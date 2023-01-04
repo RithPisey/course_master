@@ -1,0 +1,11 @@
+{
+	"compilerOptions": {
+		"lib": ["esnext", "es5", "es6", "ES2016"],
+		"outDir": "dist",
+		"target": "ES2016",
+		"module": "commonjs",
+		"sourceMap": true,
+		"esModuleInterop": true,
+		"strict": true /* Enable all strict type-checking options. */
+	}
+}
